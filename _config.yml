@@ -1,0 +1,7 @@
+name: "Calculus"
+description: ""
+
+
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
