@@ -8,12 +8,15 @@ Heading
 $$
 \int_0^1 x\ \mathrm{d}x = 1/2
 $$
+
 $$
 \int_0^1 x\ \mathrm{d}x = 1/2
 $$
+
 $$
 \int_0^1 x\ \mathrm{d}x = 1/2
 $$
+
 $$
 \int_0^1 x\ \mathrm{d}x = 1/2
 $$
