@@ -5,7 +5,18 @@ layout: default
 Heading
 -------
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Incidunt obcaecati ipsum necessitatibus, ipsam quos deleniti velit dolorum similique veniam amet facere voluptas quisquam! Atque, eveniet aut architecto nobis expedita illo laboriosam, dicta sit minima libero, earum asperiores hic. Quam ipsum atque repellendus, nam quia nemo necessitatibus quisquam mollitia, neque, animi voluptate rem? Hic natus consectetur provident adipisci laborum neque at, eos dolorum saepe aspernatur ipsum itaque sequi debitis, omnis sed ducimus. Dicta esse, error voluptatum excepturi incidunt blanditiis nemo ipsum perspiciatis voluptates corporis itaque fuga obcaecati doloribus eveniet expedita laudantium porro maiores harum similique, unde magni vel impedit ut! Atque.
+$$
+\int_0^1 x\ \mathrm{d}x = 1/2
+$$
+$$
+\int_0^1 x\ \mathrm{d}x = 1/2
+$$
+$$
+\int_0^1 x\ \mathrm{d}x = 1/2
+$$
+$$
+\int_0^1 x\ \mathrm{d}x = 1/2
+$$
 
 Another Heading
 ---------------
