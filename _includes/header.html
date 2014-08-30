@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <title>{{ site.name }}</title>
 
+  <link rel="stylesheet" href="{{ site.url }}/css/styles.css">
   <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
   <script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
@@ -12,4 +13,7 @@
 
 <body>
   {% include navbar.html %}
-  <div class="container"> 
+  <div class="sidebar">
+    {% include sidebar.html %}
+  </div>
+  <div class="content"> 

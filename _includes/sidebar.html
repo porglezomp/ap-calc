@@ -1,12 +1,8 @@
----
-layout: default
----
-
 {% for chapter in site.chapters %}
-<h1>Chapter {{ chapter }}</h1>
+<h2>Chapter {{ chapter }}</h2>
 {% for page in site.pages %}
   {% if page.chapter == chapter %}
-    <h2><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></h2>
+    <h3><a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a></h3>
   {% endif %}
 {% endfor %}
 {% endfor %}
