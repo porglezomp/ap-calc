@@ -1,7 +1,8 @@
 name: "Calculus"
 description: ""
+chapters: [1, 2, 3, 4, 5]
 
 
-markdown: kramdown
+markdown: redcarpet
 permalink: pretty
 highlighter: pygments
