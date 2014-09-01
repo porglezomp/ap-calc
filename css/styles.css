@@ -5,6 +5,29 @@
   margin-right: 60px;
 }
 
+.sidebar .chapter {
+  font-size: 26px;
+}
+
+.sidebar a {
+  transition: 0.25s color;
+  color: #333;
+}
+
+.sidebar a:hover {
+  text-decoration: none;
+  color: #38f;
+}
+
+.sidebar ul.chapter-section {
+  list-style: none;
+  padding-left: 24px;
+}
+
+.sidebar ul.chapter-section .section {
+  font-size: 20px;
+}
+
 .content {
   float: left;
   padding-left: 30px;
