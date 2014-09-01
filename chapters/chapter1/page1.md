@@ -1,6 +1,7 @@
 ---
 title: page1
 layout: default
+chapter: 1
 ---
 
 ## Calculus is fun
