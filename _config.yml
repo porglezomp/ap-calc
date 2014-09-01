@@ -2,7 +2,7 @@ name: "Calculus"
 description: ""
 chapters: [1, 2, 3]
 
-url: "http://porglezomp.github.io/ap-calc"
+url: "//porglezomp.github.io/ap-calc"
 
 markdown: redcarpet
 permalink: pretty
