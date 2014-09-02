@@ -2,8 +2,17 @@ name: "Calculus"
 description: ""
 chapters: [1, 2, 3]
 
-url: "//porglezomp.github.io/ap-calc"
+# Swap comments for local testing
+url: "//porglezomp.github.io/ap-calc
+# url: "//localhost:4000"
 
 markdown: redcarpet
 permalink: pretty
 highlighter: pygments
+
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"

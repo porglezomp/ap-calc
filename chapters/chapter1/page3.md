@@ -4,10 +4,12 @@ layout: default
 chapter: 1
 ---
 
-$$\newcommand{\dd}{\mathrm{d}}$$
 ## The Fundamental Theorum
 The fundamental theorum of calculus is
-$$ \frac{\dd y}{\dd x} = \frac{f(x+\Delta x) - f(x)}{\Delta x} $$
+$$
+\newcommand{\dd}{\mathrm{d}}
+\frac{\dd y}{\dd x} = \lim_{\Delta x \to 0} \frac{f(x+\Delta x) - f(x)}{\Delta x}
+$$
 ## Vector Calculus
 Vector calculus is
 $$
