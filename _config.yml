@@ -3,7 +3,7 @@ description: ""
 chapters: [1, 2, 3]
 
 # Swap comments for local testing
-url: "//porglezomp.github.io/ap-calc
+url: "//porglezomp.github.io/ap-calc"
 # url: "//localhost:4000"
 
 markdown: redcarpet
