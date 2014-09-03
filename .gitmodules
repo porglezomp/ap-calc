@@ -1,0 +1,3 @@
+[submodule "notes-base"]
+	path = notes-base
+	url = https://github.com/porglezomp/notes-base.git
