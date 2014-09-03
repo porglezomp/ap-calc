@@ -8,6 +8,26 @@ hr.titlebar {
 }
 .title {
   font-size: 26px;
+  font-weight: 300;
+  color: #444;
+}
+.title:hover {
+  color: #544;
+}
+
+h1 {
+  font-weight: 200 !important;
+}
+h2 {
+  font-weight: 300 !important;
+}
+h3 {
+  font-weight: 400 !important;
+}
+
+.subtitle {
+  color: #818181;
+  font-weight: 300;
 }
 
 .wrap {

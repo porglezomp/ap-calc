@@ -1,16 +1,17 @@
 ---
-title: page3
+title: Fundamental Theorums
+subtitle: Some of the most central theorums in calculus
 layout: default
 chapter: 1
 ---
 
-## The Fundamental Theorum
+### The Fundamental Theorum
 The fundamental theorum of calculus is
 $$
 \newcommand{\dd}{\mathrm{d}}
 \frac{\dd y}{\dd x} = \lim_{\Delta x \to 0} \frac{f(x+\Delta x) - f(x)}{\Delta x}
 $$
-## Vector Calculus
+### Vector Calculus
 Vector calculus is
 $$
 \nabla f = 
