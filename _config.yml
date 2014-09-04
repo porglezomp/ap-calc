@@ -1,10 +1,8 @@
 name: "Calculus"
 description: ""
-chapters: [1, 2, 3]
+chapters: [0]
 
-# Swap comments for local testing
 url: "//porglezomp.github.io/ap-calc"
-# url: "//localhost:4000"
 
 markdown: redcarpet
 permalink: pretty
