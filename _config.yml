@@ -1,6 +1,10 @@
 name: "Calculus"
-description: ""
+description: "A site to use for my AP Calculus notes."
 chapters: [0]
+
+email: "bionicle.dragon@gmail.com"
+github: "porglezomp"
+twitter: "porglezomp"
 
 url: "//porglezomp.github.io/ap-calc"
 
